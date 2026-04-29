@@ -17,7 +17,6 @@ The main experiment file is:
 
 ```bash
 main_experiment.py
-[200~```
 
 ## Environment
 
